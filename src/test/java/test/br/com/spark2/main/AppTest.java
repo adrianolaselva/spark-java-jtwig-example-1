@@ -1,4 +1,4 @@
-package spark_2.spark_2;
+package test.br.com.spark2.main;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
